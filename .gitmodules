@@ -42,3 +42,6 @@
 	path = tools/tblCRCTool
 	url = https://github.com/nasa/tblCRCTool.git
   branch = main
+[submodule "apps/fpga_app"]
+	path = apps/fpga_app
+	url = git@github.com:dong-zh/cFS-FPGA.git
