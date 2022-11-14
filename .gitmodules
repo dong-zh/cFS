@@ -41,7 +41,7 @@
 [submodule "apps/fpga_ctrl"]
 	path = apps/fpga_ctrl
 	url = git@github.com:dong-zh/cFS-FPGA.git
-[submodule "apps/mmio_lib"]
-	path = apps/mmio_lib
+	branch = fpga-comm
+[submodule "libs/mmio_lib"]
+	path = libs/mmio_lib
 	url = git@github.com:dong-zh/cFS-MMIO-Library.git
-	branch = main
