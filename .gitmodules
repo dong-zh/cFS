@@ -26,10 +26,7 @@
 	path = apps/to_lab
 	url = https://github.com/dong-zh/to_lab.git
 	branch = fpga-comm
-[submodule "tools/cFS-GroundSystem"]
-	path = tools/cFS-GroundSystem
-	url = https://github.com/nasa/cFS-GroundSystem.git
-  branch = main
+
 [submodule "tools/elf2cfetbl"]
 	path = tools/elf2cfetbl
 	url = https://github.com/nasa/elf2cfetbl.git
@@ -45,3 +42,6 @@
 [submodule "libs/mmio_lib"]
 	path = libs/mmio_lib
 	url = git@github.com:dong-zh/cFS-MMIO-Library.git
+[submodule "tools/cfs-GroundSystem"]
+	path = tools/cfs-GroundSystem
+	url = git@github.com:dong-zh/cFS-GroundSystem.git
