@@ -38,10 +38,14 @@
 [submodule "apps/fpga_ctrl"]
 	path = apps/fpga_ctrl
 	url = git@github.com:dong-zh/cFS-FPGA.git
-	branch = fpga-comm
+	branch = fpga-app
 [submodule "libs/mmio_lib"]
 	path = libs/mmio_lib
 	url = git@github.com:dong-zh/cFS-MMIO-Library.git
 [submodule "tools/cfs-GroundSystem"]
 	path = tools/cfs-GroundSystem
 	url = git@github.com:dong-zh/cFS-GroundSystem.git
+[submodule "tools/cFS-GroundSystem"]
+	path = tools/cFS-GroundSystem
+	url = git@github.com:dong-zh/cFS-GroundSystem.git
+	branch = fpga-comm
