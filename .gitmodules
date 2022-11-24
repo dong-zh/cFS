@@ -42,6 +42,7 @@
 [submodule "libs/mmio_lib"]
 	path = libs/mmio_lib
 	url = git@github.com:dong-zh/cFS-MMIO-Library.git
+	branch = main
 [submodule "tools/cfs-GroundSystem"]
 	path = tools/cfs-GroundSystem
 	url = git@github.com:dong-zh/cFS-GroundSystem.git
